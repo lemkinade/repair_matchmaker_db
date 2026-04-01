@@ -11,9 +11,7 @@ This project is a relational database application designed to support a local ci
 ## Project Structure
 * `app.py`: The main database setup script. It establishes the connection, drops existing tables to ensure a clean state, creates the 7 required tables (Users, Categories, Repairers, RepairerSkills, ServiceRequests, Appointments, Reviews), and populates them with sample test data.
 * `queries.py`: The query execution script. It runs specific SQL queries (like calculating the total KG of landfill saved and finding 5-star reviews) to demonstrate the database's analytical capabilities.
-* `.gitignore`: Ensures local Python virtual environment files are not uploaded to the repository.
 
 ## Future Enhancements
-* Implement a Graphical User Interface (GUI) or Web Frontend (e.g., using Flask or Django) for easier user interaction.
+* Implement a Graphical User Interface for easier user interaction.
 * Expand the test dataset to simulate a full production environment.
-* Add automated triggers for appointment status updates.
