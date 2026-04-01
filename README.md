@@ -1,6 +1,6 @@
 # Repair Matchmaker Database
 
-This project is a relational database application designed to support a local circular economy initiative. It connects individuals who have broken household items with skilled local repairers, aiming to reduce landfill waste and promote sustainability.
+A PostgreSQL database schema designed for a local repair matchmaking service. The database handles users, repairers, item categories, and service requests. Its core function is to use relational data structures to accurately map a user's broken item to a repairer who has the specific skills to fix it.
 
 ## Technologies Used
 * **Database:** PostgreSQL
