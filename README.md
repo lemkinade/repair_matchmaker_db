@@ -1,4 +1,4 @@
-# Circular Economy Repair Database
+# Repair Matchmaker Database
 
 This project is a relational database application designed to support a local circular economy initiative. It connects individuals who have broken household items with skilled local repairers, aiming to reduce landfill waste and promote sustainability.
 
