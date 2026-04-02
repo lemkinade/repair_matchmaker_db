@@ -22,7 +22,7 @@ To explore or run this database project locally, you will need Python 3 installe
 
 **1. Clone the repository and navigate to the directory:**
 ```bash
-git clone <https://github.com/lemkinade/repair_matchmaker_db.git>
+git clone https://github.com/lemkinade/repair_matchmaker_db.git
 cd repair_matchmaker_db
 ```
 
